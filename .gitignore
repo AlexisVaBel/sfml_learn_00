@@ -1,5 +1,8 @@
 # Prerequisites
 *.d
+.idea/*
+CMake*user
+*build*
 
 # Compiled Object files
 *.slo
